@@ -1,0 +1,3 @@
+# PM Decision Note
+
+I chose a Retrieval-Augmented Generation (RAG) architecture because it allows the system to answer questions using uploaded team documents instead of relying only on the LLM's general knowledge. This improves answer accuracy, reduces hallucinations, and ensures responses are grounded in the organization's data. I selected ChromaDB as the vector database because it is lightweight, easy to set up locally, and integrates well with LangChain. Groq was chosen for inference because it provides fast response times and a simple API for development. Feedback logging was added to capture user ratings and create a foundation for future answer-quality improvements and evaluation.
