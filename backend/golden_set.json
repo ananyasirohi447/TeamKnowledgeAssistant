@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the internship duration?",
+    "expected_answer": "Refer to Internship Policy document.",
+    "source_doc": "Internship Policy.pdf"
+  },
+  {
+    "question": "What are the refund conditions?",
+    "expected_answer": "Refer to Refund Policy document.",
+    "source_doc": "Refund Policy.pdf"
+  },
+  {
+    "question": "What topics were discussed in the weekly meeting?",
+    "expected_answer": "Refer to Product Team Weekly Meeting Notes document.",
+    "source_doc": "Product Team Weekly Meeting Notes.pdf"
+  }
+]
